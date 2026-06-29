@@ -29,6 +29,7 @@ See my [CCNA Cyber Operations outline in Google Docs](https://docs.google.com/do
 <a href = "https://www.kali.org/">
   <img src = "https://store-images.s-microsoft.com/image/apps.26197.14261911708180816.c01bff75-7a55-49bc-bee2-a833cb67216d.21700488-d81b-48e0-bbf7-1d7f90afd071" style ="width: 100px; height: 100px; background-color: white; padding: 40px" />
 </a>
+</br>
 <a href = "https://www.virustotal.com/gui/home/upload">
   <img src = "https://www.maltego.com/images/uploads/virustotal-public-api-loog.png" style ="width: 140px; height: 100px; background-color: white; padding: 40px" />
 </a>
