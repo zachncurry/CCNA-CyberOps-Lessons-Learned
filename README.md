@@ -32,13 +32,16 @@ See my [CCNA Cyber Operations outline in Google Docs](https://docs.google.com/do
 <a href = "https://www.virustotal.com/gui/home/upload">
   <img src = "https://www.maltego.com/images/uploads/virustotal-public-api-loog.png" style ="width: 140px; height: 100px; background-color: white; padding: 40px" />
 </a>
+<a href = "http://ghidra.net/">
+  <img src = "https://media.wired.com/photos/5c7f358c25da720469976787/1:1/w_1543,h_1543,c_limit/ghidra.jpg" style ="width: 125px; height: 100px; background-color: white; padding: 40px" />
+</a>
 <a href = "https://www.linux.org/">
   <img src = "https://i.extremetech.com/imagery/content-types/00ZTdioKuRFKHIEMNw8NtDb/hero-image.fit_lim.v1678673053.jpg" style ="width: 140px; height: 100px; background-color: white; padding: 40px" />
 </a>
 </br>
-
-
-
+<a href = "https://www.elastic.co/">
+  <img src = "https://miro.medium.com/v2/resize:fit:1200/1*e1vUM6KI9AGsD-rPJB8o6A.png" style ="width: 380px; height: 200px; background-color: white; padding: 40px" />
+</a>
 
 
 Below are the exam topics required to successfully operate with a Security Operations Center (SOC).
