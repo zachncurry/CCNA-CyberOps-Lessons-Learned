@@ -15,6 +15,34 @@ Then once a malicious packet is found what is required of you as an analyst to m
 
 See my [CCNA Cyber Operations outline in Google Docs](https://docs.google.com/document/d/1F4dt1hjt9dJwufCoeX6A_zlbshLnE0D2buAflFG6giE/edit?usp=sharing)
 
+
+
+**Hands on Experience Included:**
+</br>
+<a href = "https://www.netacad.com/resources/lab-downloads?courseLang=en-US">
+  <img src = "https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.jpg" style ="width: 140px; height: 100px; background-color: white; padding: 40px" />
+</a>
+<a href = "https://www.gns3.com/">
+  <img src = "https://www.gns3.com/assets/custom/gns3/images/logo-colour.png" style ="width: 100px; height: 100px; background-color: white; padding: 40px" />
+</a>
+<a href = "https://www.wireshark.org/">
+  <img src = "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/m5KlyZx99eU6LQ4X/png-wireshark-Yyv3gO93rRCPp72G.png" style ="width: 125px; height: 100px; background-color: white; padding: 40px" />
+</a>
+<a href = "https://www.kali.org/">
+  <img src = "https://store-images.s-microsoft.com/image/apps.26197.14261911708180816.c01bff75-7a55-49bc-bee2-a833cb67216d.21700488-d81b-48e0-bbf7-1d7f90afd071" style ="width: 100px; height: 100px; background-color: white; padding: 40px" />
+</a>
+<a href = "https://www.virustotal.com/gui/home/upload">
+  <img src = "https://www.maltego.com/images/uploads/virustotal-public-api-loog.png" style ="width: 140px; height: 100px; background-color: white; padding: 40px" />
+</a>
+<a href = "https://www.linux.org/">
+  <img src = "https://i.extremetech.com/imagery/content-types/00ZTdioKuRFKHIEMNw8NtDb/hero-image.fit_lim.v1678673053.jpg" style ="width: 140px; height: 100px; background-color: white; padding: 40px" />
+</a>
+</br>
+
+
+
+
+
 Below are the exam topics required to successfully operate with a Security Operations Center (SOC).
 
 
