@@ -7,9 +7,7 @@
 **Issued:** April 23, 2026
 
 
-This was such a fun experience! Being prepared for this exam requires you to understand in depth cyber security platforms and operations for example sourcing, obtaining, and analyzing PCAP files. 
-Then once a malicious packet is found what is required of you as an analyst to mitigate the risk such as isolating and hashing. Not to mention the hands on experience with SIEMs and SOARs learning how taps send data to network devices actively monitoring activity trained to create end user alerts for remedy layered with a SOAR enabling automated, real-time responses based on established playbooks all while following the MITRE ATT&CK framework. 
-
+This was such a fun experience! Being prepared for this exam requires you to understand in depth cyber security platforms and operations for example sourcing, obtaining, and analyzing PCAP files in addition to the underlying technologies and enabled capabilities such as deep packet inspection from a NexGen Firewall. Then once a malicious packet is found what is required of you as an analyst to mitigate the risk such as isolating and hashing. Not to mention the hands on experience with SIEMs and SOARs learning how taps send data to network devices actively monitoring activity trained to create end user alerts for remedy layered with a SOAR enabling automated, real-time responses based on established playbooks all while following the MITRE ATT&CK framework. 
 
 
 
