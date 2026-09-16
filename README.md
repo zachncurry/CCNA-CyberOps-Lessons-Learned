@@ -25,7 +25,7 @@ See my [CCNA Cyber Operations outline in Google Docs](https://docs.google.com/do
   <img src = "https://www.gns3.com/assets/custom/gns3/images/logo-colour.png" style ="width: 100px; height: 100px; background-color: white; padding: 40px" />
 </a>
 <a href = "https://www.wireshark.org/">
-  <img src = "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/m5KlyZx99eU6LQ4X/png-wireshark-Yyv3gO93rRCPp72G.png" style ="width: 125px; height: 100px; background-color: white; padding: 40px" />
+  <img src = "https://preview.redd.it/i-made-a-macos-style-icon-for-wireshark-v0-20d6i256yjmc1.png?auto=webp&s=040d9169a7135056af07dc339f939d7fc7694619" style ="width: 125px; height: 100px; background-color: white; padding: 40px" />
 </a>
 <a href = "https://www.kali.org/">
   <img src = "https://store-images.s-microsoft.com/image/apps.26197.14261911708180816.c01bff75-7a55-49bc-bee2-a833cb67216d.21700488-d81b-48e0-bbf7-1d7f90afd071" style ="width: 100px; height: 100px; background-color: white; padding: 40px" />
